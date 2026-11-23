@@ -1,3 +1,4 @@
+package prep1;
 // Find the First Non-Repeating Character
 // Step 1: Restate it
 

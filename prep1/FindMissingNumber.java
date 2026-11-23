@@ -1,3 +1,4 @@
+package prep1;
 // Restate it
 
 // You're given an array containing n distinct numbers, taken from the range 0 to n (that's n+1 possible numbers total), but one number is missing from the array. Find which one is missing.

@@ -1,3 +1,4 @@
+package prep1;
 public class maxArraySum {
     
     public int maxSum(int[] nums) {

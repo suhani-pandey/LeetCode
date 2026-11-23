@@ -1,3 +1,4 @@
+package prep1;
 public class moveZero {
     
     public int[] moveZeros(int[] nums) {

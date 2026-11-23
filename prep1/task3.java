@@ -1,3 +1,4 @@
+package prep1;
 // Task 3: Stick-Cutting Square Problem
 // The problem
 

@@ -1,3 +1,4 @@
+package prep1;
 public class majEle {
     
     public int majority(int[] nums) {

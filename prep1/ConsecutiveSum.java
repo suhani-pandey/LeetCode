@@ -1,3 +1,4 @@
+package prep1;
 // Maximum Subarray Sum (Kadane's Algorithm)
 
 // Actually, let me give you something a bit more approachable first, since this is a very classic and frequently-asked "simple algorithm" question that's a great fit for a student-level interview.

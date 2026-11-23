@@ -1,3 +1,4 @@
+package prep1;
 public class no{
 
     // find the first character that is non-repeating in a string and return it. If there is no such character, return null character.

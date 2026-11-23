@@ -1,3 +1,4 @@
+package prep1;
 public class peak {
     
     public boolean validMountainArray(int[] arr) {

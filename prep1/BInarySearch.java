@@ -1,3 +1,4 @@
+package prep1;
 // Binary Search
 // Step 1: Restate it
 

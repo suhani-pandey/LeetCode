@@ -1,3 +1,4 @@
+package prep1;
 public class mergeArray {
     
     // merge the two sorted array and the merged array should be sorted

@@ -1,3 +1,4 @@
+package prep1;
 public class binSearch {
     
     public int binarySearch(int[] nums, int target) {

@@ -1,3 +1,4 @@
+package prep1;
 public class peak2 {
     
     public int peakIndex(int[] arr) {

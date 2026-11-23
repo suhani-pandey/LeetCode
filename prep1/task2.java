@@ -1,3 +1,4 @@
+package prep1;
 // Task 2: Maximum 4-Digit Number from a Grid Path
 // The problem
 

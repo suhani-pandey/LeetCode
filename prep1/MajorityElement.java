@@ -1,3 +1,4 @@
+package prep1;
 // Given an array of numbers, find the element that appears more than half the time (this is called the "majority element"). The problem usually guarantees that such an element always exists in the array.
 
 // Example: nums = [2, 2, 1, 1, 1, 2, 2]

@@ -1,3 +1,4 @@
+package prep1;
 public class anagram {
     
     public boolean isAnagram(String s, String t) {

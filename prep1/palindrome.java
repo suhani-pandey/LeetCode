@@ -1,3 +1,4 @@
+package prep1;
 public class palindrome {
     
     public boolean isPalindrome(String s) {

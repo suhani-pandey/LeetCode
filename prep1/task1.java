@@ -1,3 +1,4 @@
+package prep1;
 public class task1 {
     
     public int maxPair(String letter){

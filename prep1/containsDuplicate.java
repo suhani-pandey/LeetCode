@@ -1,3 +1,4 @@
+package prep1;
 public class containsDuplicate {
     
     public boolean hasDuplicate(int[] nums) {
