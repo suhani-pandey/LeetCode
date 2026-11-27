@@ -27,6 +27,6 @@ class TwoSum{
             seen.Add(num, i);
         }
 
-        return Array.Empty<int>;
+        return Array.Empty<int>();
     }
 }
